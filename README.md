@@ -32,6 +32,7 @@
 <ol>
     <li>Clone the repository:</li>
     <code>git clone https://github.com/rahoolrathi/VSM-Information-Retrieval-Python.git</code>
+    <li>Unzip the "researchpaper.zip" file:</li>
     <li>Navigate to the project directory:</li>
     <code>cd VSM-Information-Retrieval-Python</code>
 </ol>
