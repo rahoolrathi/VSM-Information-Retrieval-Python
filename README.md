@@ -35,8 +35,6 @@
     <code>git clone https://github.com/rahoolrathi/VSM-Information-Retrieval-Python.git</code>
     <li>Navigate to the project directory:</li>
     <code>cd VSM-Information-Retrieval-Python</code>
-    <li>Install dependencies:</li>
-    <code>pip install -r requirements.txt</code>
 </ol>
 
 <h2>Usage</h2>
@@ -57,27 +55,8 @@
 <img src="https://github.com/rahoolrathi/VSM-Information-Retrieval-Python/assets/129182364/e22a8cef-c60e-4565-9607-c8f978f43626" alt="Sample Output 1">
 <img src="https://github.com/rahoolrathi/VSM-Information-Retrieval-Python/assets/129182364/9b7ba950-ff00-4aa5-9fb0-5910561e6163" alt="Sample Output 2">
 
-<h2>Contributing</h2>
 
-<p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.</p>
 
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Credits</h2>
-
-<ul>
-    <li>NLTK library for text processing.</li>
-    <li>Icons used in the GUI are from <a href="https://www.iconfinder.com/">Iconfinder</a>.</li>
-</ul>
-
-<h2>Additional Resources</h2>
-
-<ul>
-    <li><a href="https://github.com/rahoolrathi/VSM-Information-Retrieval-Python/docs">Documentation</a></li>
-    <li><a href="https://github.com/rahoolrathi/VSM-Information-Retrieval-Python/examples">Example Usage</a></li>
-</ul>
 
 </body>
 </html>
